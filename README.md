@@ -1,0 +1,2 @@
+# JS davaleba 10
+ 
